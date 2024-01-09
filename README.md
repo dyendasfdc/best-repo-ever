@@ -1,2 +1,2 @@
 # best-repo-evergit switch 
-Testing Merge COnflicts
+Testing Merge COnflicts and adding conflicts
